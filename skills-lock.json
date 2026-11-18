@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "skills": {
+    "content-strategy": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/content-strategy/SKILL.md",
+      "computedHash": "94a23ddb279c20ea8c7c7751eb07f548c855a5287aed8983f31e63b49e7dbf1a",
+      "installMode": "copy"
+    },
+    "copy-editing": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/copy-editing/SKILL.md",
+      "computedHash": "faf2d2cb156cdebe9b7ad16df2d25e42494e6069b33f237f5cdd24b04853636b",
+      "installMode": "copy"
+    },
+    "copywriting": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/copywriting/SKILL.md",
+      "computedHash": "6b86be15d7e8397c27d339fbcbf72718854f96f096ca617889e45b5b8174c393",
+      "installMode": "copy"
+    },
+    "customer-research": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/customer-research/SKILL.md",
+      "computedHash": "a8a89bd4789f64f3cdaedf0bf7f3531a79829755b715899d461be09cb0e6101e",
+      "installMode": "copy"
+    },
+    "product-marketing": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/product-marketing/SKILL.md",
+      "computedHash": "2b7f80ab415280e3e0a0bcc112af8e24059169642c70fb36e18e44a79f80f505",
+      "installMode": "copy"
+    },
+    "social": {
+      "source": "coreyhaines31/marketingskills",
+      "commit": "73573e94a06a39965978b3fa1f9c1eace8cebc7c",
+      "sourceType": "github",
+      "skillPath": "skills/social/SKILL.md",
+      "computedHash": "3442dfae79280b6d191282726598064a405745295cebaeed6a95a45311383731",
+      "installMode": "copy"
+    }
+  }
+}
